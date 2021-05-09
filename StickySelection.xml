@@ -1,0 +1,23 @@
+<application>
+  <component name="StickySelectionProperties">
+    <option name="paintGroupProperties">
+      <list>
+        <PaintGroupDataBean>
+          <option name="colorString" value="102,51,0" />
+          <option name="markerNeeded" value="true" />
+          <option name="shortcut" value="I" />
+        </PaintGroupDataBean>
+        <PaintGroupDataBean>
+          <option name="colorString" value="51,102,0" />
+          <option name="markerNeeded" value="true" />
+          <option name="shortcut" value="2" />
+        </PaintGroupDataBean>
+        <PaintGroupDataBean>
+          <option name="colorString" value="0,102,102" />
+          <option name="markerNeeded" value="true" />
+          <option name="shortcut" value="R" />
+        </PaintGroupDataBean>
+      </list>
+    </option>
+  </component>
+</application>
