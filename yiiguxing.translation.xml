@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="layout.activity main" />
+      <item value="R.layout.activity main" />
       <item value="java.lang.IllegalArgumentException: The view is not a child of CoordinatorLayout" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.bottomsheetstestapp.makino.harutiro.bottomsheetstest.MainActivity}" />
       <item value="Val cannot be reassigned" />
