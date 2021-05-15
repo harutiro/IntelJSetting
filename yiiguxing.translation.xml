@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="android.view.Window Manager Invalid Display Exception" />
+      <item value="Unable to start activity ComponentInfo" />
+      <item value="TRANSLUCENT" />
+      <item value="FLAG WATCH OUTSIDE TOUCH" />
+      <item value="TYPE APPLICATION" />
       <item value="We were unable to deploy your changes: READ_FROM_SERVER_FAILED" />
       <item value="on Page Finished" />
       <item value="Execution Exception" />
