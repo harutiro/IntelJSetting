@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="' on a null object reference" />
+      <item value="int android.graphics.Bitmap.getWidth()" />
+      <item value="Attempt to invoke virtual method" />
+      <item value="java.lang.Null Pointer Exception" />
+      <item value="width and height must be" />
+      <item value="java.lang.Illegal Argument Exception" />
       <item value="Compress Format" />
       <item value="Compress Format.JPEG" />
       <item value="compress" />
