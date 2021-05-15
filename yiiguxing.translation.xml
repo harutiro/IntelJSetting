@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compress Format" />
+      <item value="Compress Format.JPEG" />
+      <item value="compress" />
+      <item value="File Output Stream" />
+      <item value="get External Storage Directory" />
+      <item value="Environment" />
+      <item value="Exception" />
       <item value="layout.activity main" />
       <item value="R.layout.activity main" />
       <item value="java.lang.IllegalArgumentException: The view is not a child of CoordinatorLayout" />
@@ -16,6 +23,6 @@
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620403933218" />
+    <option name="lastTrimTime" value="1621084770183" />
   </component>
 </application>
