@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A problem occurred configuring root project 'domain acquisition'. &gt; Could not resolve all artifacts for configuration ':classpath'. &gt; Could not find org.jetbrains.kotlin:kotlin-gradle-plugin:1.5.0-release-764. Searched in the following locations:" />
       <item value="Unable to start activity ComponentInfo" />
       <item value="android.view.Window Manager Invalid Display Exception" />
       <item value="TRANSLUCENT" />
