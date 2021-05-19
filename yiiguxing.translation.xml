@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
+      <item value="Warning: this repository is going to shut down soon" />
       <item value="A problem occurred configuring root project 'domain acquisition'. &gt; Could not resolve all artifacts for configuration ':classpath'. &gt; Could not find org.jetbrains.kotlin:kotlin-gradle-plugin:1.5.0-release-764. Searched in the following locations:" />
       <item value="Unable to start activity ComponentInfo" />
       <item value="android.view.Window Manager Invalid Display Exception" />
