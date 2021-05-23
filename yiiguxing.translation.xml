@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AAPT: error: '0pd' is incompatible with attribute padding (attr) dimension." />
       <item value="DEPRECATION" />
       <item value="Suppress" />
       <item value="@Suppress(&quot;DEPRECATION&quot;)" />
