@@ -1,7 +1,23 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="690" />
+    <option name="newTranslationDialogX" value="491" />
+    <option name="newTranslationDialogY" value="860" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can't find file group for uri: android:com.google.android.googlequicksearchboxfilesgrowthtrackingsharedGrowthTrackingData.pb.tmp 2021-06-19 18:16:25.200 479-479? Enetmgr: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:network' service: Invalid argument" />
+      <item value="android:com.google.android.googlequicksearchbox files growth trackingshared Growth Tracking Data.pb.tmp" />
+      <item value="android:com.google.android.googlequicksearchboxfilesgrowthtrackingshared Growth Tracking Data.pb.tmp" />
+      <item value="Can't find file group for uri" />
+      <item value="Endroid.setting: Not starting debugger since process cannot load the jdwp agent. 2021-06-19 18:13:06.463 12492-12492? ESettings: Unable to find info for package: null 2021-06-19 18:13:19.737 513-527? EUserRestrictionsUtils: Unknown restriction queried by uid 1000 (com.android.localtransport et al): null 2021-06-19 18:13:25.077 479-479? Enetmgr: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:network' service: Invalid argument 2021-06-19 18:13:25.077 479-479? Enetmgr: Failed to open QEMU pipe 'qemud:network': Invalid argument 2021-06-19 18:13:19.738 513-527? EUserRestrictionsUtils: Unknown restriction queried by uid 1000 (com.android.localtransport et al): null 2021-06-19 18:13:25.690 513-532? ERemoteAugmentedAutofillService: Bad service name for flags 1048704: com.google.android.ascom.google.android.apps.miphone.aiai.app.AiAiAugmentedAutofillService 2021-06-19 18:13:27.677 482-482? Ewifi_forwarder: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:wififorward' service: Invalid argument 2021-06-19 18:13:27.677 482-482? Ewifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe" />
+      <item value="Denying clipboard access to com.android.chrome, application is not in focus nor is it a system service for user 0" />
       <item value="DeviceStateChecker cancelled" />
+      <item value="RuntimeException while executing runnable aioi{aauk@ce8585e} with executor MoreExecutors.directExecutor() java.lang.NullPointerException: Attempt to read from field 'java.lang.String aagb.b' on a null object reference" />
+      <item value="EDeviceStateChecker: DeviceStateChecker cancelled" />
+      <item value="Enetmgr: Failed to open QEMU pipe 'qemud:network': Invalid argument" />
+      <item value="Ewifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe" />
+      <item value="2021-06-19 18:05:27.528 482-482? Ewifi_forwarder: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:wififorward' service: Invalid argument" />
+      <item value="2021-06-19 18:05:27.032 207-210? Eandroid.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup35: Permission denied" />
       <item value="Device State Checker" />
       <item value="2021-06-19 17:50:06.772 1505-11540? EDeviceStateChecker: DeviceStateChecker cancelled" />
       <item value="ERROR:C:\Users\harut\AndroidStudioProjects\shareTN\app\build\intermediates\packaged_manifests\debug\AndroidManifest.xml:23: AAPT: error: unexpected element &lt;action&gt; found in &lt;manifest&gt;&lt;application&gt;&lt;activity&gt;." />
@@ -39,18 +55,6 @@
       <item value="int android.graphics.Bitmap.getWidth()" />
       <item value="Attempt to invoke virtual method" />
       <item value="java.lang.Null Pointer Exception" />
-      <item value="width and height must be" />
-      <item value="Compress Format" />
-      <item value="Compress Format.JPEG" />
-      <item value="compress" />
-      <item value="File Output Stream" />
-      <item value="get External Storage Directory" />
-      <item value="Environment" />
-      <item value="Exception" />
-      <item value="layout.activity main" />
-      <item value="R.layout.activity main" />
-      <item value="java.lang.IllegalArgumentException: The view is not a child of CoordinatorLayout" />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.bottomsheetstestapp.makino.harutiro.bottomsheetstest.MainActivity}" />
     </histories>
   </component>
   <component name="Cache">
