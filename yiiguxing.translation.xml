@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.sharetncom.example.sharetn.MainActivity}: io.realm.exceptions.RealmException: 'MainDate' has a primary key, use 'createObject(Class&lt;E&gt;, Object)' instead." />
       <item value="Recycler View Adapter" />
       <item value="A problem occurred configuring root project 'share(TN)'. &gt; Could not resolve all artifacts for configuration ':classpath'. &gt; Could not find io.realm:realm-gradle-plugin:6.0.2. Searched in the following locations: - https:dl.google.comdlandroidmaven2iorealmrealm-gradle-plugin6.0.2realm-gradle-plugin-6.0.2.pom - https:repo.maven.apache.orgmaven2iorealmrealm-gradle-plugin6.0.2realm-gradle-plugin-6.0.2.pom Required by: project :" />
       <item value="java.lang.reflect.InvocationTargetException (no error message)" />
@@ -50,10 +51,9 @@
       <item value="Main Activity" />
       <item value="Could not identify launch activity: Default Activity not found Error while Launching activity" />
       <item value="Unknown bits set in runtime_flags:" />
-      <item value="No Class Def Found Error" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623516561192" />
+    <option name="lastTrimTime" value="1624082885002" />
   </component>
 </application>
