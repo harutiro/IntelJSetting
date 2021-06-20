@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="860" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="android.graphics.drawable.VectorDrawable cannot be cast to android.graphics.drawable.BitmapDrawable" />
+      <item value=": Unable to find explicit activity class {com.example.sharetnandroid.widget.EditText}; have you declared this activity in your AndroidManifest.xml?" />
       <item value="android.view.Window Leaked" />
       <item value="EWindowManager: android.view.WindowLeaked:" />
       <item value="Activity com.example.sharetn.EditActivity has leaked window android.webkit.WebView{3c0656a GFEDHVC.. ......I. 0,0-300,300} that was originally added here" />
@@ -53,8 +55,6 @@
       <item value="We were unable to deploy your changes: READ_FROM_SERVER_FAILED" />
       <item value="on Page Finished" />
       <item value="Execution Exception" />
-      <item value="concurrent" />
-      <item value="java.util.concurrent.Execution Exception:" />
     </histories>
   </component>
   <component name="Cache">
