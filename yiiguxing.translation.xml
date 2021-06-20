@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="860" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="android.view.Window Leaked" />
+      <item value="EWindowManager: android.view.WindowLeaked:" />
+      <item value="Activity com.example.sharetn.EditActivity has leaked window android.webkit.WebView{3c0656a GFEDHVC.. ......I. 0,0-300,300} that was originally added here" />
+      <item value="io.realm.exceptions.RealmException: 'MainDate' has a primary key, use 'createObject(Class&lt;E&gt;, Object)' instead." />
+      <item value="FATAL EXCEPTION: main" />
+      <item value="Unresolved reference: decode" />
       <item value="ERecyclerView: No adapter attached; skipping layout" />
       <item value="android:shapeAppearanceOverlay not found." />
       <item value="Can't find file group for uri: android:com.google.android.googlequicksearchboxfilesgrowthtrackingsharedGrowthTrackingData.pb.tmp 2021-06-19 18:16:25.200 479-479? Enetmgr: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:network' service: Invalid argument" />
@@ -49,12 +55,6 @@
       <item value="Execution Exception" />
       <item value="concurrent" />
       <item value="java.util.concurrent.Execution Exception:" />
-      <item value="Could not retrieve server token for package" />
-      <item value="java.lang.Illegal Argument Exception" />
-      <item value="Execution" />
-      <item value="java.util.concurrent.Execution Exception" />
-      <item value="' on a null object reference" />
-      <item value="int android.graphics.Bitmap.getWidth()" />
     </histories>
   </component>
   <component name="Cache">
