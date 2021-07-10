@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="690" />
-    <option name="newTranslationDialogX" value="491" />
-    <option name="newTranslationDialogY" value="860" />
+    <option name="newTranslationDialogWidth" value="688" />
+    <option name="newTranslationDialogX" value="703" />
+    <option name="newTranslationDialogY" value="498" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="android.view.InflateException: Binary XML file line 62: Error inflating class com.google.android.material.imageview.ShapeableImageView" />
