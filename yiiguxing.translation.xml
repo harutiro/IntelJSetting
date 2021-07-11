@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="498" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Unresolved reference: Log" />
       <item value="Execution failed for task ':app:transformClassesWithRealmTransformerForDebug'. &gt; com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_ARRAY but was STRING at line 1 column 1 path Try: Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights." />
       <item value="Expected BEGIN_ARRAY but was STRING at line 1 column 1 path" />
       <item value="android.view.InflateException: Binary XML file line 62: Error inflating class com.google.android.material.imageview.ShapeableImageView" />
@@ -54,7 +55,6 @@
       <item value="@Suppress(&quot;DEPRECATION&quot;)" />
       <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
       <item value="Warning: this repository is going to shut down soon" />
-      <item value="A problem occurred configuring root project 'domain acquisition'. &gt; Could not resolve all artifacts for configuration ':classpath'. &gt; Could not find org.jetbrains.kotlin:kotlin-gradle-plugin:1.5.0-release-764. Searched in the following locations:" />
     </histories>
   </component>
   <component name="Cache">
