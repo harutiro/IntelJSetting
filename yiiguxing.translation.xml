@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="498" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Type inference failed. The value of the type parameter T should be mentioned in input types (argument types, receiver type or expected type). Try to specify it explicitly." />
       <item value="Unresolved reference: Log" />
       <item value="Execution failed for task ':app:transformClassesWithRealmTransformerForDebug'. &gt; com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_ARRAY but was STRING at line 1 column 1 path Try: Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights." />
       <item value="Expected BEGIN_ARRAY but was STRING at line 1 column 1 path" />
@@ -54,7 +55,6 @@
       <item value="Suppress" />
       <item value="@Suppress(&quot;DEPRECATION&quot;)" />
       <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
-      <item value="Warning: this repository is going to shut down soon" />
     </histories>
   </component>
   <component name="Cache">
