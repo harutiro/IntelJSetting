@@ -1,18 +1,5 @@
 <application>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
-    <pattern icon="important" useCustomColors="true" pattern="BAG:">
-      <option name="FOREGROUND" value="ff00" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="977ab" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="XXX:">
-      <option name="FOREGROUND" value="ff0000" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="977ab" />
-    </pattern>
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
 </application>
