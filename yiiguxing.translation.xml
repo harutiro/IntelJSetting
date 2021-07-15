@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="498" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Process: com.example.sharetn, PID: 13098 java.lang.IllegalStateException: Cannot modify managed objects outside of a write transaction." />
       <item value="java.lang.IllegalStateException: Could not find CoordinatorLayout descendant view with id com.example.sharetn:idbottom_sheet to anchor view com.google.android.material.floatingactionbutton.FloatingActionButton{2e550d1 VFED..C.. ......ID 0,0-0,0 7f080093 app:iddetailsFAB}" />
       <item value="状態" />
       <item value="Type inference failed. The value of the type parameter T should be mentioned in input types (argument types, receiver type or expected type). Try to specify it explicitly." />
@@ -54,10 +55,9 @@
       <item value="error: style attribute" />
       <item value="AAPT: error: '0pd' is incompatible with attribute padding (attr) dimension." />
       <item value="DEPRECATION" />
-      <item value="Suppress" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625934595891" />
+    <option name="lastTrimTime" value="1626388485698" />
   </component>
 </application>
