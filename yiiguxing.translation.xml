@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="498" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Unresolved reference: context" />
       <item value="Process: com.example.sharetn, PID: 13098 java.lang.IllegalStateException: Cannot modify managed objects outside of a write transaction." />
       <item value="java.lang.IllegalStateException: Could not find CoordinatorLayout descendant view with id com.example.sharetn:idbottom_sheet to anchor view com.google.android.material.floatingactionbutton.FloatingActionButton{2e550d1 VFED..C.. ......ID 0,0-0,0 7f080093 app:iddetailsFAB}" />
       <item value="状態" />
@@ -54,10 +55,9 @@
       <item value="'attrmyTheme (aka com.example.checkwork202106:attrmyTheme)' not found." />
       <item value="error: style attribute" />
       <item value="AAPT: error: '0pd' is incompatible with attribute padding (attr) dimension." />
-      <item value="DEPRECATION" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626388485698" />
+    <option name="lastTrimTime" value="1626863644056" />
   </component>
 </application>
