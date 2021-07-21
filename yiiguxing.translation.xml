@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="688" />
+    <option name="newTranslationDialogWidth" value="684" />
     <option name="newTranslationDialogX" value="703" />
     <option name="newTranslationDialogY" value="498" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Operator '==' cannot be applied to 'Editable?' and 'String'" />
       <item value="No suitable parent found from the given view. Please provide a valid view." />
       <item value="Unresolved reference: context" />
       <item value="Process: com.example.sharetn, PID: 13098 java.lang.IllegalStateException: Cannot modify managed objects outside of a write transaction." />
@@ -54,7 +54,6 @@
       <item value="Execution failed for task ':app:kaptDebugKotlin'. &gt; A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution &gt; java.lang.reflect.InvocationTargetException (no error message) Try: Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights." />
       <item value="FAILURE: Build failed with an exception. What went wrong: Execution failed for task ':app:kaptDebugKotlin'. &gt; A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution &gt; java.lang.reflect.InvocationTargetException (no error message) Try: Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights. Get more help at https:help.gradle.org BUILD FAILED in 1s" />
       <item value="'attrmyTheme (aka com.example.checkwork202106:attrmyTheme)' not found." />
-      <item value="error: style attribute" />
     </histories>
   </component>
   <component name="Cache">
