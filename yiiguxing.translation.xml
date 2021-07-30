@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="703" />
     <option name="newTranslationDialogY" value="498" />
     <histories>
+      <item value="java.lang.IllegalStateException: Cannot modify managed objects outside of a write transaction. in UserscmRealmrealm-java-releaserealmrealm-librarysrcmaincppio_realm_internal_OsObject.cpp line 377" />
       <item value="java.lang.IllegalStateException: LifecycleOwner com.example.sharetn.ViewActivity@79d0c02 is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
       <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
       <item value="Conflicting declarations: value-parameter listener: MainRecyclerViewAdapter.OnItemClickListner, value-parameter listener: MainRecyclerViewAdapter.OnReStartListner&#10;Conflicting declarations: private final val listener: MainRecyclerViewAdapter.OnItemClickListner, private final val listener: MainRecyclerViewAdapter.OnReStartListner" />
@@ -53,7 +54,6 @@
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.sharetncom.example.sharetn.MainActivity}: io.realm.exceptions.RealmException: 'MainDate' has a primary key, use 'createObject(Class&lt;E&gt;, Object)' instead." />
       <item value="Recycler View Adapter" />
       <item value="A problem occurred configuring root project 'share(TN)'. &gt; Could not resolve all artifacts for configuration ':classpath'. &gt; Could not find io.realm:realm-gradle-plugin:6.0.2. Searched in the following locations: - https:dl.google.comdlandroidmaven2iorealmrealm-gradle-plugin6.0.2realm-gradle-plugin-6.0.2.pom - https:repo.maven.apache.orgmaven2iorealmrealm-gradle-plugin6.0.2realm-gradle-plugin-6.0.2.pom Required by: project :" />
-      <item value="java.lang.reflect.InvocationTargetException (no error message)" />
     </histories>
   </component>
   <component name="Cache">
