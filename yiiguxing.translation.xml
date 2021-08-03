@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="680" />
-    <option name="newTranslationDialogX" value="703" />
-    <option name="newTranslationDialogY" value="498" />
+    <option name="newTranslationDialogWidth" value="678" />
+    <option name="newTranslationDialogX" value="478" />
+    <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="Call requires API level 23 (current min is 21): android.widget.ImageView#setImageIcon" />
       <item value="java.lang.IllegalStateException: Cannot modify managed objects outside of a write transaction. in UserscmRealmrealm-java-releaserealmrealm-librarysrcmaincppio_realm_internal_OsObject.cpp line 377" />
       <item value="java.lang.IllegalStateException: LifecycleOwner com.example.sharetn.ViewActivity@79d0c02 is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
       <item value="Unexpected tokens (use ';' to separate expressions on the same line)" />
@@ -53,7 +54,6 @@
       <item value="ERROR:C:\Users\harut\AndroidStudioProjects\shareTN\app\build\intermediates\packaged_manifests\debug\AndroidManifest.xml:23: AAPT: error: unexpected element &lt;action&gt; found in &lt;manifest&gt;&lt;application&gt;&lt;activity&gt;." />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.sharetncom.example.sharetn.MainActivity}: io.realm.exceptions.RealmException: 'MainDate' has a primary key, use 'createObject(Class&lt;E&gt;, Object)' instead." />
       <item value="Recycler View Adapter" />
-      <item value="A problem occurred configuring root project 'share(TN)'. &gt; Could not resolve all artifacts for configuration ':classpath'. &gt; Could not find io.realm:realm-gradle-plugin:6.0.2. Searched in the following locations: - https:dl.google.comdlandroidmaven2iorealmrealm-gradle-plugin6.0.2realm-gradle-plugin-6.0.2.pom - https:repo.maven.apache.orgmaven2iorealmrealm-gradle-plugin6.0.2realm-gradle-plugin-6.0.2.pom Required by: project :" />
     </histories>
   </component>
   <component name="Cache">
