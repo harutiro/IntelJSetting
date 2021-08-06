@@ -20,19 +20,31 @@
         <entry key="..\:/Users/harut/AndroidStudioProjects/Resito2/app/src/main/res/layout/activity_saihu_input2.xml" value="0.2957427536231884" />
         <entry key="..\:/Users/harut/AndroidStudioProjects/Resito2/app/src/main/res/layout/activity_saihu_setting.xml" value="0.2957427536231884" />
         <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24140625" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/drawable/archive_black_24dp.xml" value="0.34765625" />
         <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/drawable/close_black_24dp.xml" value="0.22890625" />
         <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/drawable/done_black_24dp.xml" value="0.34765625" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/drawable/my_edit_tag.xml" value="0.20078125" />
         <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/drawable/shape_rounded_corners_10dp.xml" value="0.34765625" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/drawable/today_black_24dp.xml" value="0.34765625" />
         <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/drawable/travel_explore_black_24dp.xml" value="0.34765625" />
-        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/activity_edit.xml" value="0.4" />
-        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/activity_edit_tag.xml" value="0.276171875" />
-        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/drawable/unarchive_black_24dp.xml" value="0.34765625" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/activity_edit.xml" value="0.3237704918032787" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/activity_edit_tag.xml" value="0.3237704918032787" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/activity_search.xml" value="0.4026268115942029" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/activity_select_tag.xml" value="0.3237704918032787" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/activity_view.xml" value="0.319672131147541" />
         <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/item_course_button_data_call.xml" value="0.2598958333333333" />
-        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/item_course_edittag_date_call.xml" value="0.2739071038251366" />
-        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/item_course_maindate_call.xml" value="0.4097560975609756" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/item_course_edittag_date_call.xml" value="0.3237704918032787" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/item_course_edittag_select_date_call.xml" value="0.3237704918032787" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/item_course_maindate_call.xml" value="0.594047619047619" />
         <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/item_course_tagbutton_data_call.xml" value="0.9" />
         <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/serch_bottom_sheet.xml" value="0.26810109289617484" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/layout/test.xml" value="0.5" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/menu/edit_activity_menu.xml" value="0.336328125" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/menu/main_activity_menu.xml" value="0.22" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/menu/view_activity_menu.xml" value="0.336328125" />
+        <entry key="..\:/Users/harut/AndroidStudioProjects/shareTN/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20625" />
         <entry key="..\:/Users/harut/AndroidStudioProjects/test2/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/harut/Desktop/Android/GItApi/app/src/main/res/layout/activity_main.xml" value="0.22871376811594202" />
         <entry key="..\:/Users/harut/Desktop/Android/RealmYoutube/app/src/main/res/layout/activity_main.xml" value="0.2776268115942029" />
@@ -46,6 +58,7 @@
         <entry key="..\:/Users/harut/StudioProjects/ReceivingSimpleDataTest/app/src/main/res/layout/activity_main.xml" value="0.75" />
         <entry key="..\:/Users/harut/StudioProjects/ReceivingSimpleDataTest/app/src/main/res/layout/activity_test2.xml" value="0.2957427536231884" />
         <entry key="..\:/Users/harut/StudioProjects/ReceivingSimpleDataTest/app/src/main/res/layout/custom_dialog.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/shareTN/app/src/main/res/layout/activity_edit.xml" value="0.17527173913043478" />
         <entry key="..\:/Users/user/AndroidStudioProjects/shareTN/app/src/main/res/layout/activity_edit_tag.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/shareTN/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/user/AndroidStudioProjects/shareTN/app/src/main/res/layout/activity_search.xml" value="0.33" />
