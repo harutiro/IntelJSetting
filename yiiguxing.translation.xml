@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.materialmanagementnoticeapp.makino.harutiro.materialmanagementnotice.MainActivity}: java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
       <item value="Gradle sync failed: Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle' (488 ms)" />
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'BintrayJCenter' was added by plugin 'realm-android'" />
       <item value="Could not find method dependencyResolutionManagement() for arguments [build_3oivbqgxdvmbgc1hgoklux30g_run_closure1@6f536a55] on root project 'MaterialManagementNotice' of type org.gradle.api.Project." />
@@ -53,7 +54,6 @@
       <item value="Denying clipboard access to com.android.chrome, application is not in focus nor is it a system service for user 0" />
       <item value="DeviceStateChecker cancelled" />
       <item value="RuntimeException while executing runnable aioi{aauk@ce8585e} with executor MoreExecutors.directExecutor() java.lang.NullPointerException: Attempt to read from field 'java.lang.String aagb.b' on a null object reference" />
-      <item value="EDeviceStateChecker: DeviceStateChecker cancelled" />
     </histories>
   </component>
   <component name="Cache">
