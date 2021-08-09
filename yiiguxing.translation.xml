@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="could not be parsed at index 4" />
+      <item value="could not be parsed at index 12" />
+      <item value="org.threeten.bp.format.DateTimeParseException: Text '1999年 07月 07日' could not be parsed at index 12" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.materialmanagementnoticeapp.makino.harutiro.materialmanagementnotice.MainActivity}: java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
       <item value="Gradle sync failed: Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle' (488 ms)" />
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'BintrayJCenter' was added by plugin 'realm-android'" />
@@ -51,9 +54,6 @@
       <item value="android:com.google.android.googlequicksearchboxfilesgrowthtrackingshared Growth Tracking Data.pb.tmp" />
       <item value="Can't find file group for uri" />
       <item value="Endroid.setting: Not starting debugger since process cannot load the jdwp agent. 2021-06-19 18:13:06.463 12492-12492? ESettings: Unable to find info for package: null 2021-06-19 18:13:19.737 513-527? EUserRestrictionsUtils: Unknown restriction queried by uid 1000 (com.android.localtransport et al): null 2021-06-19 18:13:25.077 479-479? Enetmgr: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:network' service: Invalid argument 2021-06-19 18:13:25.077 479-479? Enetmgr: Failed to open QEMU pipe 'qemud:network': Invalid argument 2021-06-19 18:13:19.738 513-527? EUserRestrictionsUtils: Unknown restriction queried by uid 1000 (com.android.localtransport et al): null 2021-06-19 18:13:25.690 513-532? ERemoteAugmentedAutofillService: Bad service name for flags 1048704: com.google.android.ascom.google.android.apps.miphone.aiai.app.AiAiAugmentedAutofillService 2021-06-19 18:13:27.677 482-482? Ewifi_forwarder: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:wififorward' service: Invalid argument 2021-06-19 18:13:27.677 482-482? Ewifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe" />
-      <item value="Denying clipboard access to com.android.chrome, application is not in focus nor is it a system service for user 0" />
-      <item value="DeviceStateChecker cancelled" />
-      <item value="RuntimeException while executing runnable aioi{aauk@ce8585e} with executor MoreExecutors.directExecutor() java.lang.NullPointerException: Attempt to read from field 'java.lang.String aagb.b' on a null object reference" />
     </histories>
   </component>
   <component name="Cache">
