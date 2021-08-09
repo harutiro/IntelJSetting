@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="Unresolved reference: fragment" />
       <item value="Unresolved reference: show" />
       <item value="There were multiple failures while executing work items" />
       <item value="Execution failed for task ':app:dexBuilderDebug'." />
@@ -53,7 +54,6 @@
       <item value="android.graphics.drawable.VectorDrawable cannot be cast to android.graphics.drawable.BitmapDrawable" />
       <item value=": Unable to find explicit activity class {com.example.sharetnandroid.widget.EditText}; have you declared this activity in your AndroidManifest.xml?" />
       <item value="android.view.Window Leaked" />
-      <item value="EWindowManager: android.view.WindowLeaked:" />
     </histories>
   </component>
   <component name="Cache">
