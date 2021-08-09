@@ -4,8 +4,10 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="373" />
     <histories>
-      <item value="A failure occurred while executing com.android.build.gradle.internal.dexing.DexWorkAction" />
       <item value="There were multiple failures while executing work items" />
+      <item value="Execution failed for task ':app:dexBuilderDebug'." />
+      <item value="FAILURE: Build failed with an exception." />
+      <item value="A failure occurred while executing com.android.build.gradle.internal.dexing.DexWorkAction" />
       <item value="com.android.tools.r8.errors.b: Class content provided for type descriptor com.example.sharetn.date.MainDate actually defines class com.example.sharetn.Date.MainDate" />
       <item value="org.threeten.bp.zone.ZoneRulesException: No time-zone data files registered" />
       <item value="msg's executing time is too long" />
@@ -52,8 +54,6 @@
       <item value="android.view.Window Leaked" />
       <item value="EWindowManager: android.view.WindowLeaked:" />
       <item value="Activity com.example.sharetn.EditActivity has leaked window android.webkit.WebView{3c0656a GFEDHVC.. ......I. 0,0-300,300} that was originally added here" />
-      <item value="io.realm.exceptions.RealmException: 'MainDate' has a primary key, use 'createObject(Class&lt;E&gt;, Object)' instead." />
-      <item value="FATAL EXCEPTION: main" />
     </histories>
   </component>
   <component name="Cache">
