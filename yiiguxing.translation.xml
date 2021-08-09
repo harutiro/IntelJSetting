@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="Unable to start activity ComponentInfo{app.makino.harutiro.materialmanagementnoticeapp.makino.harutiro.materialmanagementnotice.MainActivity}: org.threeten.bp.format.DateTimeParseException: Text '' could not be parsed at index 0" />
+      <item value="Unable to start activity ComponentInfo{app.makino.harutiro.materialmanagementnoticeapp.makino.harutiro.materialmanagementnotice.MainActivity}: org.threeten.bp.zone.ZoneRulesException: No time-zone data files registered" />
       <item value="Unresolved reference: fragment" />
       <item value="Unresolved reference: show" />
       <item value="There were multiple failures while executing work items" />
@@ -52,8 +54,6 @@
       <item value="Execution failed for task ':app:checkDebugAarMetadata'. &gt; Could not resolve all files for configuration ':app:debugRuntimeClasspath'. &gt; Could not resolve com.Android.support:design:27.1.1. Required by: project :app &gt; Could not resolve com.Android.support:design:27.1.1. &gt; inconsistent module metadata found. Descriptor: com.android.support:design:27.1.1 Errors: bad group: expected='com.Android.support' found='com.android.support'" />
       <item value="ava.lang.ClassCastException: android.graphics.drawable.VectorDrawable cannot be cast to android.graphics.drawable.BitmapDrawable" />
       <item value="android.graphics.drawable.VectorDrawable cannot be cast to android.graphics.drawable.BitmapDrawable" />
-      <item value=": Unable to find explicit activity class {com.example.sharetnandroid.widget.EditText}; have you declared this activity in your AndroidManifest.xml?" />
-      <item value="android.view.Window Leaked" />
     </histories>
   </component>
   <component name="Cache">
