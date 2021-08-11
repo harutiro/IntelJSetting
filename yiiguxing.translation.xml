@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="java.lang.RuntimeException: Unable to get provider com.google.android.gms.ads.MobileAdsInitProvider: java.lang.IllegalStateException:" />
       <item value="java.lang.ClassCastException: java.util.ArrayList cannot be cast to io.realm.RealmList" />
       <item value="Unable to start activity ComponentInfo{app.makino.harutiro.materialmanagementnoticeapp.makino.harutiro.materialmanagementnotice.MainActivity}: org.threeten.bp.format.DateTimeParseException: Text '' could not be parsed at index 0" />
       <item value="Unable to start activity ComponentInfo{app.makino.harutiro.materialmanagementnoticeapp.makino.harutiro.materialmanagementnotice.MainActivity}: org.threeten.bp.zone.ZoneRulesException: No time-zone data files registered" />
@@ -53,7 +54,6 @@
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.sharetncom.example.sharetn.EditActivity}:" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.sharetncom.example.sharetn.EditActivity}: android.view.InflateException: Binary XML file line 62: Error inflating class com.google.android.material.imageview.ShapeableImageView" />
       <item value="Execution failed for task ':app:checkDebugAarMetadata'. &gt; Could not resolve all files for configuration ':app:debugRuntimeClasspath'. &gt; Could not resolve com.Android.support:design:27.1.1. Required by: project :app &gt; Could not resolve com.Android.support:design:27.1.1. &gt; inconsistent module metadata found. Descriptor: com.android.support:design:27.1.1 Errors: bad group: expected='com.Android.support' found='com.android.support'" />
-      <item value="ava.lang.ClassCastException: android.graphics.drawable.VectorDrawable cannot be cast to android.graphics.drawable.BitmapDrawable" />
     </histories>
   </component>
   <component name="Cache">
