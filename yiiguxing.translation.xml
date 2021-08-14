@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="Unable to pause activity {app.makino.harutiro.materialmanagementnoticeapp.makino.harutiro.materialmanagementnotice.EditActivity}: io.realm.exceptions.RealmException: Running transactions on the UI thread has been disabled. It can be enabled by setting 'RealmConfiguration.Builder.allowWritesOnUiThread(true)'." />
       <item value="Unsupported Realm file format version (22) Path:Exception backtrace:" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.materialmanagementnoticeapp.makino.harutiro.materialmanagementnotice.MainActivity}: io.realm.exceptions.RealmFileException: Unable to open a realm at path 'datadataapp.makino.harutiro.materialmanagementnoticefilesdefault.realm': Unsupported Realm file format version (22) Path:Exception backtrace: &lt;backtrace not supported on this platform&gt;. (Unsupported Realm file format version (22) Path: datadataapp.makino.harutiro.materialmanagementnoticefilesdefault.realm" />
       <item value="&lt;backtrace not supported on this platform&gt;. (Unsupported Realm file format version (22) Path: datadataapp.makino.harutiro.materialmanagementnoticefilesdefault.realm Exception backtrace:" />
@@ -53,7 +54,6 @@
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.materialmanagementnoticeapp.makino.harutiro.materialmanagementnotice.MainActivity}: java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
       <item value="Gradle sync failed: Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle' (488 ms)" />
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'BintrayJCenter' was added by plugin 'realm-android'" />
-      <item value="Could not find method dependencyResolutionManagement() for arguments [build_3oivbqgxdvmbgc1hgoklux30g_run_closure1@6f536a55] on root project 'MaterialManagementNotice' of type org.gradle.api.Project." />
     </histories>
   </component>
   <component name="Cache">
