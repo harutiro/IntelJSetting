@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="Execution failed for task ':app:mergeDebugResources'." />
+      <item value="Duplicate resources" />
+      <item value="pp:kapt Generate Stubs Debug Kotlin" />
       <item value="What went wrong:" />
       <item value="orggradleapitaskscompile Groovy Compile" />
       <item value="This request is sent from a test device." />
@@ -51,9 +54,6 @@
       <item value="Process: com.example.sharetn, PID: 13098 java.lang.IllegalStateException: Cannot modify managed objects outside of a write transaction." />
       <item value="java.lang.IllegalStateException: Could not find CoordinatorLayout descendant view with id com.example.sharetn:idbottom_sheet to anchor view com.google.android.material.floatingactionbutton.FloatingActionButton{2e550d1 VFED..C.. ......ID 0,0-0,0 7f080093 app:iddetailsFAB}" />
       <item value="状態" />
-      <item value="Type inference failed. The value of the type parameter T should be mentioned in input types (argument types, receiver type or expected type). Try to specify it explicitly." />
-      <item value="Unresolved reference: Log" />
-      <item value="Execution failed for task ':app:transformClassesWithRealmTransformerForDebug'. &gt; com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_ARRAY but was STRING at line 1 column 1 path Try: Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights." />
     </histories>
   </component>
   <component name="Cache">
