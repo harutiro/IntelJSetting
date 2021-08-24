@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="java.lang.IllegalArgumentException: Cannot round NaN value." />
       <item value="Failed to query the value of task ':app:compileDebugJavaWithJavac' property 'options.generatedSourceOutputDirectory'. &gt; Querying the mapped value of map(java.io.File property(org.gradle.api.file.Directory, fixed(class org.gradle.api.internal.file.DefaultFilePropertyFactoryFixedDirectory, C:\Users\harut\AndroidStudioProjects\PhotoOCR\app\build\generated\ap_generated_sources\debug\out)) org.gradle.api.internal.file.DefaultFilePropertyFactoryToFileTransformer@6ba1935b) before task ':app:compileDebugJavaWithJavac' has completed is not supported" />
       <item value="Execution failed for task ':app:compileDebugJavaWithJavac'." />
       <item value="This project uses AndroidX dependencies, but the 'android.useAndroidX' property is not enabled. Set this property to true in the gradle.properties file and retry." />
@@ -29,7 +30,6 @@
       <item value="com.google.android.material.button.Material Button.perform Click" />
       <item value=".realm.Realm.execute Transaction" />
       <item value="Cannot round NaN value." />
-      <item value="java.lang.IllegalArgumentException: Cannot round NaN value." />
       <item value="Suspend version of Realm.executeTransaction to use within coroutines.&#10;Canceling the scope or job in which this function is executed does not cancel the transaction itself. If you want to ensure your transaction is cooperative, you have to check for the value of CoroutineScope.isActive while running the transaction:" />
       <item value="Suspend function 'executeTransactionAwait' should be called only from a coroutine or another suspend function" />
       <item value="Realm access from incorrect thread. Realm objects can only be accessed on the thread they were created." />
