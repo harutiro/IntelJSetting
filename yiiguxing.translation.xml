@@ -4,6 +4,18 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="Denying clipboard access to com.android.chrome, application is not in focus nor is it a system service for user 0" />
+      <item value="EVibratorService: Failed to issue command to vibrator HAL. Retrying." />
+      <item value="Eandroid.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup35: Permission denied" />
+      <item value="qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:network' service: Invalid argument" />
+      <item value="Denying clipboard access to com.google.android.gms, application is not in focus nor is it a system service for user 0" />
+      <item value="Enetmgr: Failed to open QEMU pipe 'qemud:network': Invalid argument" />
+      <item value="qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:wififorward' service: Invalid argument" />
+      <item value="RemoteConnection failed to initialize: RemoteConnection failed to open pipe" />
+      <item value="EGmsClient: unable to connect to service: com.google.android.gms.leibniz.events.service.START on com.google.android.gms" />
+      <item value="java.lang.IllegalArgumentException: baseUrl must end in :" />
+      <item value="2021-09-12 00:17:34.061 11256-11256? Endroid.setting: Not starting debugger since process cannot load the jdwp agent." />
+      <item value="Cannot lock Build Output Cleanup Cache (C:\Users\harut\AndroidStudioProjects\MaterialManagementNotice\.gradle\buildOutputCleanup) as it has already been locked by this process." />
       <item value="Execution failed for task ':app:checkDebugDuplicateClasses'. &gt; A failure occurred while executing com.android.build.gradle.internal.tasks.CheckDuplicatesRunnable &gt; Duplicate class android.support.customtabs.ICustomTabsCallback found in modules browser-1.3.0-runtime (androidx.browser:browser:1.3.0) and customtabs-23.0.1-runtime (com.android.support:customtabs:23.0.1)" />
       <item value="Your project has set `android.useAndroidX=true`, but configuration `debugRuntimeClasspath` still contains legacy support libraries, which may cause runtime issues." />
       <item value="java.lang.NullPointerException: null cannot be cast to non-null type android.graphics.drawable.BitmapDrawable" />
@@ -42,18 +54,6 @@
       <item value="Unable to pause activity {app.makino.harutiro.materialmanagementnoticeapp.makino.harutiro.materialmanagementnotice.EditActivity}: io.realm.exceptions.RealmException: Running transactions on the UI thread has been disabled. It can be enabled by setting 'RealmConfiguration.Builder.allowWritesOnUiThread(true)'." />
       <item value="Unsupported Realm file format version (22) Path:Exception backtrace:" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.materialmanagementnoticeapp.makino.harutiro.materialmanagementnotice.MainActivity}: io.realm.exceptions.RealmFileException: Unable to open a realm at path 'datadataapp.makino.harutiro.materialmanagementnoticefilesdefault.realm': Unsupported Realm file format version (22) Path:Exception backtrace: &lt;backtrace not supported on this platform&gt;. (Unsupported Realm file format version (22) Path: datadataapp.makino.harutiro.materialmanagementnoticefilesdefault.realm" />
-      <item value="&lt;backtrace not supported on this platform&gt;. (Unsupported Realm file format version (22) Path: datadataapp.makino.harutiro.materialmanagementnoticefilesdefault.realm Exception backtrace:" />
-      <item value="backtrace not supported on this platform&gt;) (datadataapp.makino.harutiro.materialmanagementnoticefilesdefault.realm) in UserscmRealmrealm-java-releaserealmrealm-librarysrcmaincppio_realm_internal_OsSharedRealm.cpp line 101 Kind: ACCESS_ERROR." />
-      <item value="Caused by: io.realm.exceptions.RealmFileException: Unable to open a realm at path 'datadataapp.makino.harutiro.materialmanagementnoticefilesdefault.realm': Unsupported Realm file format version (22) Path:Exception backtrace:" />
-      <item value="&lt;backtrace not supported on this platform&gt;) (datadataapp.makino.harutiro.materialmanagementnoticefilesdefault.realm) in UserscmRealmrealm-java-releaserealmrealm-librarysrcmaincppio_realm_internal_OsSharedRealm.cpp line 101 Kind: ACCESS_ERROR." />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.materialmanagementnoticeapp.makino.harutiro.materialmanagementnotice.MainActivity}: io.realm.exceptions.RealmFileException: Unable to open a realm at path 'datadataapp.makino.harutiro.materialmanagementnoticefilesdefault.realm': Unsupported Realm file format version (22) Path:Exception backtrace:" />
-      <item value=": Realm cannot clear its schema when previously configured to use an asset file by calling assetFile()." />
-      <item value="app.makino.harutiro.materialmanagementnotice.RealmApplication: java.lang.IllegalStateException: Realm cannot use an asset file when previously configured to clear its schema in migration by calling deleteRealmIfMigrationNeeded()." />
-      <item value="Unable to create application" />
-      <item value="delete Realm If Migration Needed" />
-      <item value="unknow param 0x000085b5" />
-      <item value="2021-08-25 04:35:21.813 25310-25405app.makino.harutiro.materialmanagementnotice EeglCodecCommon: glUtilsParamSize: unknow param 0x000085b5" />
-      <item value="Object is no longer valid to operate on. Was it deleted by another thread?" />
     </histories>
   </component>
   <component name="Cache">
