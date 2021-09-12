@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="java.lang.IncompatibleClassChangeError (no error message)" />
       <item value="Local module descriptor class for com.google.android.gms.ads.dynamite not found." />
       <item value="disconnecting from the service" />
       <item value="Wanagementnotic: Accessing hidden method LjavalanginvokeMethodHandlesLookup;-&gt;&lt;init&gt;(LjavalangClass;I)V (greylist, reflection, allowed)" />
@@ -53,7 +54,6 @@
       <item value="Could not find method compile() for arguments [directory 'libs'] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler." />
       <item value="kotlin.math.Math Kt Math JVM Kt.round To Long" />
       <item value="ygote Init Method And Args Caller.run" />
-      <item value="com.google.android.material.button.Material Button.perform Click" />
     </histories>
   </component>
   <component name="Cache">
