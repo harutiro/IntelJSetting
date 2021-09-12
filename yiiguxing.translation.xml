@@ -4,12 +4,15 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="Local module descriptor class for com.google.android.gms.ads.dynamite not found." />
+      <item value="disconnecting from the service" />
+      <item value="Wanagementnotic: Accessing hidden method LjavalanginvokeMethodHandlesLookup;-&gt;&lt;init&gt;(LjavalangClass;I)V (greylist, reflection, allowed)" />
+      <item value="oneway function results will be dropped but finished with status OK and parcel size 4" />
       <item value="Inactivity, disconnecting from the service" />
       <item value="IChoreographer: Skipped 75 frames! The application may be doing too much work on its main thread. IOpenGLRenderer: Davey! duration=1267ms; Flags=0, IntendedVsync=11812907917209, Vsync=11814157917159, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=11814171691600, AnimationStart=11814171708600, PerformTraversalsStart=11814171836600, DrawStart=11814171874500, SyncQueued=11814172710500, SyncStart=11814173175200, IssueDrawCommandsStart=11814173941800, SwapBuffers=11814174968400, FrameCompleted=11814175650400, DequeueBufferDuration=61700, QueueBufferDuration=244700, GpuCompleted=0, IChoreographer: Skipped 51 frames! The application may be doing too much work on its main thread. IOpenGLRenderer: Davey! duration=867ms; Flags=0, IntendedVsync=11817107859635, Vsync=11817957859601, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=11817972576000, AnimationStart=11817972591700, PerformTraversalsStart=11817972701200, DrawStart=11817972743800, SyncQueued=11817973197700, SyncStart=11817973793700, IssueDrawCommandsStart=11817973875700, SwapBuffers=11817975139300, FrameCompleted=11817976151700, DequeueBufferDuration=265800, QueueBufferDuration=402300, GpuCompleted=0," />
       <item value="Ichatty: uid=1000(system) Binder:517_C identical 1 line" />
       <item value="IWM-WorkerWrapper: Worker result SUCCESS for Work" />
       <item value="com.google.android.apps.messaging can't finish!" />
-      <item value="oneway function results will be dropped but finished with status OK and parcel size 4" />
       <item value="Expected URL scheme 'http' or 'https' but no colon was found" />
       <item value="Denying clipboard access to com.android.chrome, application is not in focus nor is it a system service for user 0" />
       <item value="EVibratorService: Failed to issue command to vibrator HAL. Retrying." />
@@ -51,9 +54,6 @@
       <item value="kotlin.math.Math Kt Math JVM Kt.round To Long" />
       <item value="ygote Init Method And Args Caller.run" />
       <item value="com.google.android.material.button.Material Button.perform Click" />
-      <item value=".realm.Realm.execute Transaction" />
-      <item value="Cannot round NaN value." />
-      <item value="Suspend version of Realm.executeTransaction to use within coroutines.&#10;Canceling the scope or job in which this function is executed does not cancel the transaction itself. If you want to ensure your transaction is cooperative, you have to check for the value of CoroutineScope.isActive while running the transaction:" />
     </histories>
   </component>
   <component name="Cache">
