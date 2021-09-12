@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="373" />
     <histories>
+      <item value="Manifest merger failed with multiple errors, see logs" />
+      <item value="Execution failed for task ':app:processDebugMainManifest'. &gt; Manifest merger failed with multiple errors, see logs" />
       <item value="java.lang.IncompatibleClassChangeError (no error message)" />
       <item value="Local module descriptor class for com.google.android.gms.ads.dynamite not found." />
       <item value="disconnecting from the service" />
@@ -52,8 +54,6 @@
       <item value="Unable to load class 'javax.xml.bind.annotation.XmlSchema'. This is an unexpected error. Please file a bug containing the idea.log file." />
       <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
       <item value="Could not find method compile() for arguments [directory 'libs'] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler." />
-      <item value="kotlin.math.Math Kt Math JVM Kt.round To Long" />
-      <item value="ygote Init Method And Args Caller.run" />
     </histories>
   </component>
   <component name="Cache">
