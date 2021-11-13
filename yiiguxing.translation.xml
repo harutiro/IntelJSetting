@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Gradle Dynamic Version" />
+      <item value="noinspection GradleDynamicVersion" />
       <item value="Manipulates the map once available. This callback is triggered when the map is ready to be used. This is where we can add markers or lines, add listeners or move the camera. In this case, we just add a marker near Sydney, Australia. If Google Play services is not installed on the device, the user will be prompted to install it inside the SupportMapFragment. This method will only be triggered once the user has installed Google Play services and returned to the app." />
       <item value="java.lang.IllegalStateException: LifecycleOwner io.github.harutiro.test_realtimedatabase.MapsActivity@ff09be9 is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{io.github.harutiro.test_realtimedatabaseio.github.harutiro.test_realtimedatabase.MapsActivity}: android.view.InflateException: Binary XML file line 9 in io.github.harutiro.test_realtimedatabase:layoutactivity_maps: Binary XML file line 9 in io.github.harutiro.test_realtimedatabase:layoutactivity_maps: Error inflating class fragment" />
