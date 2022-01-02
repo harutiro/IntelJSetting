@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ensure that the &quot;Google Maps Android API v2&quot; is enabled." />
+      <item value="Ensure that the following Android Key exists:" />
+      <item value="In the Google Developer Console" />
+      <item value=": Authorization failure." />
+      <item value="java.lang.IllegalArgumentException: No view found for id 0x7f080113 (app.makino.harutiro.trainalert:idmap) for fragment MapsFragment{71b4cef} (5b7b0f3b-1d6f-43f0-bf06-efd2fa1ad869 id=0x7f080113)" />
       <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.TextView.setText(java.lang.CharSequence)' on a null object reference" />
       <item value="PERMISSION_DENIED: Missing or insufficient permissions." />
       <item value="com.google.firebase.firestore.FirebaseFirestoreException: PERMISSION_DENIED: Missing or insufficient permissions." />
@@ -21,12 +26,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="14" />
-        <entry key="JAPANESE" value="13" />
+        <entry key="ENGLISH" value="19" />
+        <entry key="JAPANESE" value="18" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636643883186" />
+    <option name="lastTrimTime" value="1641136448034" />
   </component>
 </application>
