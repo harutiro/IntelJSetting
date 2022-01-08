@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="android.os.Network On Main Thread Exception" />
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.trainalertapp.makino.harutiro.trainalert.EditActivity}: android.os.NetworkOnMainThreadException" />
       <item value="Place found: 13 Market St" />
       <item value="INVALID REQUEST" />
       <item value="Place not found: 9011: You must enable Billing on the Google Cloud Project at https:console.cloud.google.comproject_billingenable Learn more at https:developers.google.commapsgmp-get-started" />
@@ -34,12 +36,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="27" />
-        <entry key="JAPANESE" value="26" />
+        <entry key="ENGLISH" value="29" />
+        <entry key="JAPANESE" value="28" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641091089967" />
+    <option name="lastTrimTime" value="1641658073746" />
   </component>
 </application>
