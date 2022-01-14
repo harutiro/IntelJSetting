@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Build was configured to prefer settings repositories over project repositories but repository 'BintrayJCenter' was added by plugin 'realm-android'" />
       <item value="com.google.maps.errors.Zero Results Exception" />
       <item value="Caused by: android.view.InflateException: Binary XML file line 13 in app.makino.harutiro.trainalert:layoutfragment_map: Error inflating class fragment" />
       <item value="android.os.Network On Main Thread Exception" />
@@ -40,12 +41,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="34" />
-        <entry key="JAPANESE" value="33" />
+        <entry key="ENGLISH" value="35" />
+        <entry key="JAPANESE" value="34" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641658073746" />
+    <option name="lastTrimTime" value="1642154704233" />
   </component>
 </application>
