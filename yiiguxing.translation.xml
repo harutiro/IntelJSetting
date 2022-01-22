@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CONTENT TYPE SONIFICATION" />
+      <item value="USAGE NOTIFICATION RINGTONE" />
       <item value="set_timerslack_ns write failed" />
       <item value="set_timerslack_ns write failed: Operation not permitted" />
       <item value="Operation not permitted" />
@@ -49,17 +51,15 @@
       <item value="java.lang.IllegalArgumentException: Cannot serialize Kotlin type io.github.harutiro.test_realtimedatabase.User. Reflective serialization of Kotlin classes without using kotlin-reflect has undefined and unexpected behavior. Please use KotlinJsonAdapterFactory from the moshi-kotlin artifact or use code gen from the moshi-kotlin-codegen artifact." />
       <item value="Null default values create a no-argument default constructor, which is needed for deserialization from a DataSnapshot." />
       <item value="java.lang.IllegalArgumentException: Cannot serialize local class io.github.harutiro.test_realtimedatabase.MainActivityonCreateUser" />
-      <item value="com.google.firebase.database.DatabaseException: Class io.github.harutiro.test_realtimedatabase.MainActivityonCreateUser does not define a no-argument constructor. If you are using ProGuard, make sure these constructors are not stripped." />
-      <item value="io.github.harutiro.test realtimedatabase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="50" />
-        <entry key="JAPANESE" value="49" />
+        <entry key="ENGLISH" value="52" />
+        <entry key="JAPANESE" value="51" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642154704233" />
+    <option name="lastTrimTime" value="1642866084752" />
   </component>
 </application>
