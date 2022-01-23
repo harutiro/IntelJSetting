@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exported" />
       <item value="FLAG INSISTENT" />
       <item value="CONTENT TYPE SONIFICATION" />
       <item value="USAGE NOTIFICATION RINGTONE" />
@@ -50,12 +51,11 @@
       <item value="FAILURE: Build completed with 7 failures." />
       <item value="java.lang.RuntimeException: Failed to find the generated JsonAdapter class for class io.github.harutiro.test_realtimedatabase.User" />
       <item value="java.lang.IllegalArgumentException: Cannot serialize Kotlin type io.github.harutiro.test_realtimedatabase.User. Reflective serialization of Kotlin classes without using kotlin-reflect has undefined and unexpected behavior. Please use KotlinJsonAdapterFactory from the moshi-kotlin artifact or use code gen from the moshi-kotlin-codegen artifact." />
-      <item value="Null default values create a no-argument default constructor, which is needed for deserialization from a DataSnapshot." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="53" />
-        <entry key="JAPANESE" value="52" />
+        <entry key="ENGLISH" value="54" />
+        <entry key="JAPANESE" value="53" />
       </map>
     </option>
   </component>
