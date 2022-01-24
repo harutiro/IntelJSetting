@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bad notification posted from package app.makino.harutiro.trainalert: Couldn't create icon: StatusBarIcon(pkg=app.makino.harutiro.trainalertuser=0 id=0x7f070086 level=0 visible=true num=0 )" />
       <item value="enable Lights" />
       <item value="can Show Badge" />
       <item value="set Lockscreen Visibility" />
@@ -50,12 +51,11 @@
       <item value="java.lang.IllegalStateException: LifecycleOwner io.github.harutiro.test_realtimedatabase.MapsActivity@ff09be9 is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{io.github.harutiro.test_realtimedatabaseio.github.harutiro.test_realtimedatabase.MapsActivity}: android.view.InflateException: Binary XML file line 9 in io.github.harutiro.test_realtimedatabase:layoutactivity_maps: Binary XML file line 9 in io.github.harutiro.test_realtimedatabase:layoutactivity_maps: Error inflating class fragment" />
       <item value="java.lang.RuntimeException: Failure delivering result ResultInfo{who=null, request=9001, result=0, data=Intent { (has extras) }} to activity {app.makino.harutiro.googleapitest3app.makino.harutiro.googleapitest3.MainActivity}: java.lang.NullPointerException: null cannot be cast to non-null type com.google.android.gms.auth.api.signin.GoogleSignInAccount" />
-      <item value="Task failed with an exception." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="57" />
-        <entry key="JAPANESE" value="56" />
+        <entry key="ENGLISH" value="58" />
+        <entry key="JAPANESE" value="57" />
       </map>
     </option>
   </component>
