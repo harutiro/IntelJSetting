@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error opening kernel wakelock stats for: wakeup34" />
+      <item value="Permission denied" />
+      <item value="qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:network' service: Invalid argument" />
+      <item value="Unsupported class loader" />
       <item value="Bad notification posted from package app.makino.harutiro.trainalert: Couldn't create icon: StatusBarIcon(pkg=app.makino.harutiro.trainalertuser=0 id=0x7f070086 level=0 visible=true num=0 )" />
       <item value="enable Lights" />
       <item value="can Show Badge" />
@@ -47,15 +51,11 @@
       <item value="com.google.firebase.firestore.FirebaseFirestoreException: PERMISSION_DENIED: Missing or insufficient permissions." />
       <item value="Gradle Dynamic Version" />
       <item value="noinspection GradleDynamicVersion" />
-      <item value="Manipulates the map once available. This callback is triggered when the map is ready to be used. This is where we can add markers or lines, add listeners or move the camera. In this case, we just add a marker near Sydney, Australia. If Google Play services is not installed on the device, the user will be prompted to install it inside the SupportMapFragment. This method will only be triggered once the user has installed Google Play services and returned to the app." />
-      <item value="java.lang.IllegalStateException: LifecycleOwner io.github.harutiro.test_realtimedatabase.MapsActivity@ff09be9 is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{io.github.harutiro.test_realtimedatabaseio.github.harutiro.test_realtimedatabase.MapsActivity}: android.view.InflateException: Binary XML file line 9 in io.github.harutiro.test_realtimedatabase:layoutactivity_maps: Binary XML file line 9 in io.github.harutiro.test_realtimedatabase:layoutactivity_maps: Error inflating class fragment" />
-      <item value="java.lang.RuntimeException: Failure delivering result ResultInfo{who=null, request=9001, result=0, data=Intent { (has extras) }} to activity {app.makino.harutiro.googleapitest3app.makino.harutiro.googleapitest3.MainActivity}: java.lang.NullPointerException: null cannot be cast to non-null type com.google.android.gms.auth.api.signin.GoogleSignInAccount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="58" />
-        <entry key="JAPANESE" value="57" />
+        <entry key="ENGLISH" value="62" />
+        <entry key="JAPANESE" value="61" />
       </map>
     </option>
   </component>
