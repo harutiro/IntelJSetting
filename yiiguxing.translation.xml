@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Manipulates the map once available. This callback is triggered when the map is ready to be used. This is where we can add markers or lines, add listeners or move the camera. In this case, we just add a marker near Sydney, Australia. If Google Play services is not installed on the device, the user will be prompted to install it inside the SupportMapFragment. This method will only be triggered once the user has installed Google Play services and returned to the app." />
       <item value="Error opening kernel wakelock stats for: wakeup34" />
       <item value="Permission denied" />
       <item value="qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:network' service: Invalid argument" />
@@ -50,12 +51,11 @@
       <item value="PERMISSION_DENIED: Missing or insufficient permissions." />
       <item value="com.google.firebase.firestore.FirebaseFirestoreException: PERMISSION_DENIED: Missing or insufficient permissions." />
       <item value="Gradle Dynamic Version" />
-      <item value="noinspection GradleDynamicVersion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="62" />
-        <entry key="JAPANESE" value="61" />
+        <entry key="ENGLISH" value="63" />
+        <entry key="JAPANESE" value="62" />
       </map>
     </option>
   </component>
