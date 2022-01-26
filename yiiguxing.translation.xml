@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Once you have your API key (it starts with &quot;AIza&quot;), define a new property in your project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the &quot;YOUR_API_KEY&quot; string in this file with &quot;{MAPS_API_KEY}&quot;." />
       <item value="Manipulates the map once available. This callback is triggered when the map is ready to be used. This is where we can add markers or lines, add listeners or move the camera. In this case, we just add a marker near Sydney, Australia. If Google Play services is not installed on the device, the user will be prompted to install it inside the SupportMapFragment. This method will only be triggered once the user has installed Google Play services and returned to the app." />
       <item value="Error opening kernel wakelock stats for: wakeup34" />
       <item value="Permission denied" />
@@ -50,12 +51,11 @@
       <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.TextView.setText(java.lang.CharSequence)' on a null object reference" />
       <item value="PERMISSION_DENIED: Missing or insufficient permissions." />
       <item value="com.google.firebase.firestore.FirebaseFirestoreException: PERMISSION_DENIED: Missing or insufficient permissions." />
-      <item value="Gradle Dynamic Version" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="63" />
-        <entry key="JAPANESE" value="62" />
+        <entry key="ENGLISH" value="64" />
+        <entry key="JAPANESE" value="63" />
       </map>
     </option>
   </component>
