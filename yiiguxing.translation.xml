@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="null cannot be cast to non-null type com.google.android.gms.maps.SupportMapFragment" />
       <item value="Local module descriptor class for com.google.android.gms.googlecertificates not found." />
       <item value="Attempt to invoke virtual method 'android.os.Looper android.content.Context.getMainLooper()' on a null object reference" />
       <item value="Once you have your API key (it starts with &quot;AIza&quot;), define a new property in your project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the &quot;YOUR_API_KEY&quot; string in this file with &quot;{MAPS_API_KEY}&quot;." />
@@ -25,7 +26,6 @@
       <item value="android.view.InflateException: Binary XML file line 13 in app.makino.harutiro.trainalert:layoutfragment_map: Binary XML file line 13 in app.makino.harutiro.trainalert:layoutfragment_map: Error inflating class fragment Caused by: android.view.InflateException: Binary XML file line 13 in app.makino.harutiro.trainalert:layoutfragment_map: Error inflating class fragment Caused by: java.lang.IllegalArgumentException: Binary XML file line 13: Duplicate id 0x7f080115, tag null, or parent id 0xffffffff with another fragment for com.google.android.gms.maps.MapFragment" />
       <item value=": error: attribute android:class not found." />
       <item value="Error inflating class fragment" />
-      <item value="null cannot be cast to non-null type com.google.android.gms.maps.SupportMapFragment" />
       <item value="lateinit property locationCallback has not been initialized" />
       <item value="Got last known location. In some rare situations this can be null." />
       <item value="Show the dialog by calling startResolutionForResult(), and check the result in onActivityResult()." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="66" />
-        <entry key="JAPANESE" value="65" />
+        <entry key="ENGLISH" value="67" />
+        <entry key="JAPANESE" value="66" />
       </map>
     </option>
   </component>
