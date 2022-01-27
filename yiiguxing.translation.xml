@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lateinit property googleMap has not been initialized" />
       <item value="null cannot be cast to non-null type com.google.android.gms.maps.SupportMapFragment" />
       <item value="Local module descriptor class for com.google.android.gms.googlecertificates not found." />
       <item value="Attempt to invoke virtual method 'android.os.Looper android.content.Context.getMainLooper()' on a null object reference" />
@@ -50,16 +51,15 @@
       <item value="Specify the types of place data to return." />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.trainalertcom.google.android.libraries.places.widget.AutocompleteActivity}: java.lang.IllegalStateException: Places must be initialized." />
       <item value="Error inflating class fragment at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3270)" />
-      <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.TextView.setText(java.lang.CharSequence)' on a null object reference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="67" />
-        <entry key="JAPANESE" value="66" />
+        <entry key="ENGLISH" value="68" />
+        <entry key="JAPANESE" value="67" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642866084752" />
+    <option name="lastTrimTime" value="1643324005938" />
   </component>
 </application>
