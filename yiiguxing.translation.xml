@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Local module descriptor class for com.google.android.gms.googlecertificates not found." />
       <item value="Attempt to invoke virtual method 'android.os.Looper android.content.Context.getMainLooper()' on a null object reference" />
       <item value="Once you have your API key (it starts with &quot;AIza&quot;), define a new property in your project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the &quot;YOUR_API_KEY&quot; string in this file with &quot;{MAPS_API_KEY}&quot;." />
       <item value="Manipulates the map once available. This callback is triggered when the map is ready to be used. This is where we can add markers or lines, add listeners or move the camera. In this case, we just add a marker near Sydney, Australia. If Google Play services is not installed on the device, the user will be prompted to install it inside the SupportMapFragment. This method will only be triggered once the user has installed Google Play services and returned to the app." />
@@ -50,12 +51,11 @@
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.trainalertcom.google.android.libraries.places.widget.AutocompleteActivity}: java.lang.IllegalStateException: Places must be initialized." />
       <item value="Error inflating class fragment at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3270)" />
       <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.TextView.setText(java.lang.CharSequence)' on a null object reference" />
-      <item value="PERMISSION_DENIED: Missing or insufficient permissions." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="65" />
-        <entry key="JAPANESE" value="64" />
+        <entry key="ENGLISH" value="66" />
+        <entry key="JAPANESE" value="65" />
       </map>
     </option>
   </component>
