@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Failed to launch an application on all devices" />
-      <item value="Installation failed due to: 'INSTALL_FAILED_NO_MATCHING_ABIS: Failed to extract native libraries, res=-113'" />
-      <item value="The application could not be installed: INSTALL_FAILED_NO_MATCHING_ABIS" />
+      <item value="lateinit property googleMap has not been initialized" />
+      <item value="null cannot be cast to non-null type com.google.android.gms.maps.SupportMapFragment" />
+      <item value="Local module descriptor class for com.google.android.gms.googlecertificates not found." />
       <item value="Attempt to invoke virtual method 'android.os.Looper android.content.Context.getMainLooper()' on a null object reference" />
       <item value="Once you have your API key (it starts with &quot;AIza&quot;), define a new property in your project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the &quot;YOUR_API_KEY&quot; string in this file with &quot;{MAPS_API_KEY}&quot;." />
       <item value="Manipulates the map once available. This callback is triggered when the map is ready to be used. This is where we can add markers or lines, add listeners or move the camera. In this case, we just add a marker near Sydney, Australia. If Google Play services is not installed on the device, the user will be prompted to install it inside the SupportMapFragment. This method will only be triggered once the user has installed Google Play services and returned to the app." />
@@ -27,7 +27,6 @@
       <item value="android.view.InflateException: Binary XML file line 13 in app.makino.harutiro.trainalert:layoutfragment_map: Binary XML file line 13 in app.makino.harutiro.trainalert:layoutfragment_map: Error inflating class fragment Caused by: android.view.InflateException: Binary XML file line 13 in app.makino.harutiro.trainalert:layoutfragment_map: Error inflating class fragment Caused by: java.lang.IllegalArgumentException: Binary XML file line 13: Duplicate id 0x7f080115, tag null, or parent id 0xffffffff with another fragment for com.google.android.gms.maps.MapFragment" />
       <item value=": error: attribute android:class not found." />
       <item value="Error inflating class fragment" />
-      <item value="null cannot be cast to non-null type com.google.android.gms.maps.SupportMapFragment" />
       <item value="lateinit property locationCallback has not been initialized" />
       <item value="Got last known location. In some rare situations this can be null." />
       <item value="Show the dialog by calling startResolutionForResult(), and check the result in onActivityResult()." />
@@ -51,6 +50,7 @@
       <item value="Initialize the AutocompleteSupportFragment." />
       <item value="Specify the types of place data to return." />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.trainalertcom.google.android.libraries.places.widget.AutocompleteActivity}: java.lang.IllegalStateException: Places must be initialized." />
+      <item value="Error inflating class fragment at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3270)" />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,6 +60,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643401480371" />
+    <option name="lastTrimTime" value="1643324005938" />
   </component>
 </application>
