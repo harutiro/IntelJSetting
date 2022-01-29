@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="androidmapsapi- identical 2 lines" />
+      <item value="exceeded sample count in FrameTime" />
+      <item value="set Show Badge" />
+      <item value="Notification.VISIBILITY PRIVATE" />
+      <item value="lockscreen Visibility" />
+      <item value=".can Show Badge" />
       <item value="set_timerslack_ns write failed: Operation not permitted" />
       <item value="Binary XML file line 21" />
       <item value="on a null object reference" />
@@ -45,17 +51,11 @@
       <item value="Invalid request. Missing the 'destination' parameter." />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.trainalertapp.makino.harutiro.trainalert.EditActivity}: android.os.NetworkOnMainThreadException" />
       <item value="Place found: 13 Market St" />
-      <item value="INVALID REQUEST" />
-      <item value="Place not found: 9011: You must enable Billing on the Google Cloud Project at https:console.cloud.google.comproject_billingenable Learn more at https:developers.google.commapsgmp-get-started" />
-      <item value="An operation is not implemented: Handle error with given status code" />
-      <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'int android.graphics.Bitmap.getWidth()' on a null object reference" />
-      <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'int android.graphics.Bitmap.getWidth()' on a null object reference at com.google.maps.api.android.lib6.gmm6.vector.gl.aj.a(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):11) at com.google.maps.api.android.lib6.gmm6.vector.gl.aj.&lt;init&gt;(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):3) at com.google.maps.api.android.lib6.gmm6.vector.gl.g.&lt;init&gt;(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):23) at com.google.maps.api.android.lib6.gmm6.vector.bt.b(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):20) at com.google.maps.api.android.lib6.gmm6.vector.av.run(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):56)" />
-      <item value="set_timerslack_ns write failed: Operation not permitted 2022-01-03 11:25:51.100 7548-7548app.makino.harutiro.trainalert ERecyclerView: No adapter attached; skipping layout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="75" />
-        <entry key="JAPANESE" value="74" />
+        <entry key="ENGLISH" value="81" />
+        <entry key="JAPANESE" value="80" />
       </map>
     </option>
   </component>
