@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="イヤホン" />
       <item value="lateinit property googleMap has not been initialized" />
       <item value="null cannot be cast to non-null type com.google.android.gms.maps.SupportMapFragment" />
       <item value="Local module descriptor class for com.google.android.gms.googlecertificates not found." />
@@ -50,12 +51,11 @@
       <item value="Initialize the AutocompleteSupportFragment." />
       <item value="Specify the types of place data to return." />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.trainalertcom.google.android.libraries.places.widget.AutocompleteActivity}: java.lang.IllegalStateException: Places must be initialized." />
-      <item value="Error inflating class fragment at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3270)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="68" />
-        <entry key="JAPANESE" value="67" />
+        <entry key="JAPANESE" value="68" />
       </map>
     </option>
   </component>
