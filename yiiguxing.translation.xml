@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set_timerslack_ns write failed: Operation not permitted" />
+      <item value="Binary XML file line 21" />
+      <item value="on a null object reference" />
+      <item value="void android.widget.Button.setOnClickListener(android.view.ViewOnClickListener)' on a null object reference" />
       <item value="Muting recently noisy" />
       <item value="lateinit property googleMap has not been initialized" />
       <item value="null cannot be cast to non-null type com.google.android.gms.maps.SupportMapFragment" />
@@ -21,7 +25,6 @@
       <item value="CONTENT TYPE SONIFICATION" />
       <item value="USAGE NOTIFICATION RINGTONE" />
       <item value="set_timerslack_ns write failed" />
-      <item value="set_timerslack_ns write failed: Operation not permitted" />
       <item value="Operation not permitted" />
       <item value="Cannot modify managed objects outside of a write transaction." />
       <item value="java.lang.IllegalStateException: `copyOrUpdate` can only be called inside a write transaction." />
@@ -48,14 +51,11 @@
       <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'int android.graphics.Bitmap.getWidth()' on a null object reference" />
       <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'int android.graphics.Bitmap.getWidth()' on a null object reference at com.google.maps.api.android.lib6.gmm6.vector.gl.aj.a(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):11) at com.google.maps.api.android.lib6.gmm6.vector.gl.aj.&lt;init&gt;(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):3) at com.google.maps.api.android.lib6.gmm6.vector.gl.g.&lt;init&gt;(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):23) at com.google.maps.api.android.lib6.gmm6.vector.bt.b(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):20) at com.google.maps.api.android.lib6.gmm6.vector.av.run(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):56)" />
       <item value="set_timerslack_ns write failed: Operation not permitted 2022-01-03 11:25:51.100 7548-7548app.makino.harutiro.trainalert ERecyclerView: No adapter attached; skipping layout" />
-      <item value="Initialize the AutocompleteSupportFragment." />
-      <item value="Specify the types of place data to return." />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.trainalertcom.google.android.libraries.places.widget.AutocompleteActivity}: java.lang.IllegalStateException: Places must be initialized." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="71" />
-        <entry key="JAPANESE" value="70" />
+        <entry key="ENGLISH" value="75" />
+        <entry key="JAPANESE" value="74" />
       </map>
     </option>
   </component>
