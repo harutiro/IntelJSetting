@@ -1,22 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="handle Window Visibility" />
-      <item value="no activity for token android.os.BinderProxy@60341a5" />
-      <item value="new Directory Stream" />
-      <item value=": onMessageDPolicyExpect failed!" />
-      <item value="java.nio.file.No Such File Exception" />
-      <item value="androidmapsapi- identical 2 lines" />
-      <item value="exceeded sample count in FrameTime" />
-      <item value="set Show Badge" />
-      <item value="Notification.VISIBILITY PRIVATE" />
-      <item value="lockscreen Visibility" />
-      <item value=".can Show Badge" />
-      <item value="set_timerslack_ns write failed: Operation not permitted" />
-      <item value="Binary XML file line 21" />
-      <item value="on a null object reference" />
-      <item value="void android.widget.Button.setOnClickListener(android.view.ViewOnClickListener)' on a null object reference" />
-      <item value="Muting recently noisy" />
+      <item value="イヤホン" />
       <item value="lateinit property googleMap has not been initialized" />
       <item value="null cannot be cast to non-null type com.google.android.gms.maps.SupportMapFragment" />
       <item value="Local module descriptor class for com.google.android.gms.googlecertificates not found." />
@@ -36,6 +21,7 @@
       <item value="CONTENT TYPE SONIFICATION" />
       <item value="USAGE NOTIFICATION RINGTONE" />
       <item value="set_timerslack_ns write failed" />
+      <item value="set_timerslack_ns write failed: Operation not permitted" />
       <item value="Operation not permitted" />
       <item value="Cannot modify managed objects outside of a write transaction." />
       <item value="java.lang.IllegalStateException: `copyOrUpdate` can only be called inside a write transaction." />
@@ -51,15 +37,29 @@
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'BintrayJCenter' was added by plugin 'realm-android'" />
       <item value="com.google.maps.errors.Zero Results Exception" />
       <item value="Caused by: android.view.InflateException: Binary XML file line 13 in app.makino.harutiro.trainalert:layoutfragment_map: Error inflating class fragment" />
+      <item value="android.os.Network On Main Thread Exception" />
+      <item value="1600 Amphitheatre Parkway Mountain View, CA 94043" />
+      <item value="Invalid request. Missing the 'destination' parameter." />
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.trainalertapp.makino.harutiro.trainalert.EditActivity}: android.os.NetworkOnMainThreadException" />
+      <item value="Place found: 13 Market St" />
+      <item value="INVALID REQUEST" />
+      <item value="Place not found: 9011: You must enable Billing on the Google Cloud Project at https:console.cloud.google.comproject_billingenable Learn more at https:developers.google.commapsgmp-get-started" />
+      <item value="An operation is not implemented: Handle error with given status code" />
+      <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'int android.graphics.Bitmap.getWidth()' on a null object reference" />
+      <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'int android.graphics.Bitmap.getWidth()' on a null object reference at com.google.maps.api.android.lib6.gmm6.vector.gl.aj.a(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):11) at com.google.maps.api.android.lib6.gmm6.vector.gl.aj.&lt;init&gt;(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):3) at com.google.maps.api.android.lib6.gmm6.vector.gl.g.&lt;init&gt;(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):23) at com.google.maps.api.android.lib6.gmm6.vector.bt.b(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):20) at com.google.maps.api.android.lib6.gmm6.vector.av.run(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):56)" />
+      <item value="set_timerslack_ns write failed: Operation not permitted 2022-01-03 11:25:51.100 7548-7548app.makino.harutiro.trainalert ERecyclerView: No adapter attached; skipping layout" />
+      <item value="Initialize the AutocompleteSupportFragment." />
+      <item value="Specify the types of place data to return." />
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.trainalertcom.google.android.libraries.places.widget.AutocompleteActivity}: java.lang.IllegalStateException: Places must be initialized." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="87" />
-        <entry key="JAPANESE" value="86" />
+        <entry key="ENGLISH" value="68" />
+        <entry key="JAPANESE" value="68" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644337107568" />
+    <option name="lastTrimTime" value="1643324005938" />
   </component>
 </application>
