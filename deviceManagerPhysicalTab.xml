@@ -23,6 +23,18 @@
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="354961116469763" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-12T06:26:53.190883800Z" />
+        <name value="SHARP SH-RM15" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
