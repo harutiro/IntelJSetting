@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The ad size and ad unit ID must be set before loadAd is called." />
       <item value="The API key for Google Maps-based APIs is defined as a string resource. (See the file &quot;resvaluesgoogle_maps_api.xml&quot;). Note that the API key is linked to the encryption key used to sign the APK. You need a different API key for each encryption key, including the release key that is used to sign the APK for publishing. You can define the keys for the debug and release targets in srcdebug and srcrelease." />
       <item value="have you declared this activity in your AndroidManifest.xml?" />
       <item value="曜日" />
@@ -50,12 +51,11 @@
       <item value="Invalid request. Missing the 'destination' parameter." />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.trainalertapp.makino.harutiro.trainalert.EditActivity}: android.os.NetworkOnMainThreadException" />
       <item value="Place found: 13 Market St" />
-      <item value="INVALID REQUEST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="75" />
-        <entry key="JAPANESE" value="74" />
+        <entry key="ENGLISH" value="76" />
+        <entry key="JAPANESE" value="75" />
       </map>
     </option>
   </component>
