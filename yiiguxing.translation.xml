@@ -1,7 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="might" />
+      <item value="to get test ads on this device." />
+      <item value="Considering local module" />
+      <item value="0 and remote module com.google.android.gms.ads.dynamite:214106404" />
+      <item value="Ad failed to load : 3" />
+      <item value="Use RequestConfiguration.Builder().setTestDeviceIds(Arrays.asList(&quot;A864692BCA5B4FD076E01F7725B9E6FA&quot;)) to get test ads on this device." />
+      <item value="Error using newLatLngBounds(LatLngBounds, int): Map size can't be 0. Most likely, layout has not yet occured for the map view. Either wait until layout has occurred or use newLatLngBounds(LatLngBounds, int, int, int) which allows you to specify the map's dimensions." />
+      <item value="Error using newLatLngBounds(LatLngBounds, int)" />
+      <item value="Map size can't be 0. Most likely, layout has not yet occured for the map view. Either wait until layout has occurred or use newLatLngBounds(LatLngBounds, int, int, int) which allows you to specify the map's dimensions." />
+      <item value="The ad size and ad unit ID must be set before loadAd is called." />
+      <item value="The API key for Google Maps-based APIs is defined as a string resource. (See the file &quot;resvaluesgoogle_maps_api.xml&quot;). Note that the API key is linked to the encryption key used to sign the APK. You need a different API key for each encryption key, including the release key that is used to sign the APK for publishing. You can define the keys for the debug and release targets in srcdebug and srcrelease." />
+      <item value="have you declared this activity in your AndroidManifest.xml?" />
+      <item value="曜日" />
+      <item value="Departure" />
+      <item value="Arrive" />
+      <item value="Activity Compatrequest Permissions" />
+      <item value="Consider calling" />
+      <item value="No suitable parent found from the given view. Please provide a valid view." />
       <item value="イヤホン" />
       <item value="lateinit property googleMap has not been initialized" />
       <item value="null cannot be cast to non-null type com.google.android.gms.maps.SupportMapFragment" />
@@ -35,31 +51,15 @@
       <item value="android.widget.Switch cannot be cast to androidx.appcompat.widget.SwitchCompat" />
       <item value="java.lang.ClassCastException: androidx.appcompat.widget.AppCompatToggleButton cannot be cast to android.widget.CheckBox" />
       <item value="Caused by: java.lang.IllegalArgumentException: Binary XML file line 13: Duplicate id 0x7f080115, tag null, or parent id 0xffffffff with another fragment for com.google.android.gms.maps.MapFragment" />
-      <item value="Build was configured to prefer settings repositories over project repositories but repository 'BintrayJCenter' was added by plugin 'realm-android'" />
-      <item value="com.google.maps.errors.Zero Results Exception" />
-      <item value="Caused by: android.view.InflateException: Binary XML file line 13 in app.makino.harutiro.trainalert:layoutfragment_map: Error inflating class fragment" />
-      <item value="android.os.Network On Main Thread Exception" />
-      <item value="1600 Amphitheatre Parkway Mountain View, CA 94043" />
-      <item value="Invalid request. Missing the 'destination' parameter." />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{app.makino.harutiro.trainalertapp.makino.harutiro.trainalert.EditActivity}: android.os.NetworkOnMainThreadException" />
-      <item value="Place found: 13 Market St" />
-      <item value="INVALID REQUEST" />
-      <item value="Place not found: 9011: You must enable Billing on the Google Cloud Project at https:console.cloud.google.comproject_billingenable Learn more at https:developers.google.commapsgmp-get-started" />
-      <item value="An operation is not implemented: Handle error with given status code" />
-      <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'int android.graphics.Bitmap.getWidth()' on a null object reference" />
-      <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'int android.graphics.Bitmap.getWidth()' on a null object reference at com.google.maps.api.android.lib6.gmm6.vector.gl.aj.a(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):11) at com.google.maps.api.android.lib6.gmm6.vector.gl.aj.&lt;init&gt;(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):3) at com.google.maps.api.android.lib6.gmm6.vector.gl.g.&lt;init&gt;(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):23) at com.google.maps.api.android.lib6.gmm6.vector.bt.b(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):20) at com.google.maps.api.android.lib6.gmm6.vector.av.run(:com.google.android.gms.dynamite_mapsdynamite@201817052@20.18.17 (040700-0):56)" />
-      <item value="set_timerslack_ns write failed: Operation not permitted 2022-01-03 11:25:51.100 7548-7548app.makino.harutiro.trainalert ERecyclerView: No adapter attached; skipping layout" />
-      <item value="Initialize the AutocompleteSupportFragment." />
-      <item value="Specify the types of place data to return." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="69" />
-        <entry key="JAPANESE" value="68" />
+        <entry key="ENGLISH" value="85" />
+        <entry key="JAPANESE" value="84" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646886381947" />
+    <option name="lastTrimTime" value="1646491098973" />
   </component>
 </application>
