@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No key with alias 'Key' found in keystore" />
+      <item value="No key with alias 'key' found in keystore" />
       <item value="No time-zone data files registered" />
       <item value="to get test ads on this device." />
       <item value="Considering local module" />
@@ -49,13 +51,11 @@
       <item value="lateinit property locationCallback has not been initialized" />
       <item value="Got last known location. In some rare situations this can be null." />
       <item value="Show the dialog by calling startResolutionForResult(), and check the result in onActivityResult()." />
-      <item value="android.widget.Switch cannot be cast to androidx.appcompat.widget.SwitchCompat" />
-      <item value="java.lang.ClassCastException: androidx.appcompat.widget.AppCompatToggleButton cannot be cast to android.widget.CheckBox" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="86" />
-        <entry key="JAPANESE" value="85" />
+        <entry key="ENGLISH" value="88" />
+        <entry key="JAPANESE" value="87" />
       </map>
     </option>
   </component>
