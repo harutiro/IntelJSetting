@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No time-zone data files registered" />
       <item value="to get test ads on this device." />
       <item value="Considering local module" />
       <item value="0 and remote module com.google.android.gms.ads.dynamite:214106404" />
@@ -50,16 +51,15 @@
       <item value="Show the dialog by calling startResolutionForResult(), and check the result in onActivityResult()." />
       <item value="android.widget.Switch cannot be cast to androidx.appcompat.widget.SwitchCompat" />
       <item value="java.lang.ClassCastException: androidx.appcompat.widget.AppCompatToggleButton cannot be cast to android.widget.CheckBox" />
-      <item value="Caused by: java.lang.IllegalArgumentException: Binary XML file line 13: Duplicate id 0x7f080115, tag null, or parent id 0xffffffff with another fragment for com.google.android.gms.maps.MapFragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="85" />
-        <entry key="JAPANESE" value="84" />
+        <entry key="ENGLISH" value="86" />
+        <entry key="JAPANESE" value="85" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646491098973" />
+    <option name="lastTrimTime" value="1646927180598" />
   </component>
 </application>
