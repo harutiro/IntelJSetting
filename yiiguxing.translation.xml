@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="[Realm] Cannot find primary zero arg constructor" />
       <item value="identical 4 lines" />
       <item value="Inactivity, disconnecting from the service" />
       <item value="Unable to find explicit activity class {app.makino.harutiro.trainalertapp.makino.harutiro.trainalert.MainActivity2}; have you declared this activity in your AndroidManifest.xml?" />
@@ -50,16 +51,15 @@
       <item value="java.lang.IllegalStateException: `copyOrUpdate` can only be called inside a write transaction." />
       <item value="android.view.InflateException: Binary XML file line 13 in app.makino.harutiro.trainalert:layoutfragment_map: Binary XML file line 13 in app.makino.harutiro.trainalert:layoutfragment_map: Error inflating class fragment Caused by: android.view.InflateException: Binary XML file line 13 in app.makino.harutiro.trainalert:layoutfragment_map: Error inflating class fragment Caused by: java.lang.IllegalArgumentException: Binary XML file line 13: Duplicate id 0x7f080115, tag null, or parent id 0xffffffff with another fragment for com.google.android.gms.maps.MapFragment" />
       <item value=": error: attribute android:class not found." />
-      <item value="Error inflating class fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="91" />
-        <entry key="JAPANESE" value="90" />
+        <entry key="ENGLISH" value="92" />
+        <entry key="JAPANESE" value="91" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646927180598" />
+    <option name="lastTrimTime" value="1648396492233" />
   </component>
 </application>
