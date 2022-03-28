@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lateinit property currentPhotoUri has not been initialized" />
       <item value="Couldn't find meta-data for provider with authority io.github.com.harutiro.brainexchange.fileprovider" />
       <item value="好きなもの" />
       <item value="[Realm] Cannot find primary zero arg constructor" />
@@ -50,12 +51,11 @@
       <item value="set_timerslack_ns write failed: Operation not permitted" />
       <item value="Operation not permitted" />
       <item value="Cannot modify managed objects outside of a write transaction." />
-      <item value="java.lang.IllegalStateException: `copyOrUpdate` can only be called inside a write transaction." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="93" />
-        <entry key="JAPANESE" value="92" />
+        <entry key="ENGLISH" value="94" />
+        <entry key="JAPANESE" value="93" />
       </map>
     </option>
   </component>
