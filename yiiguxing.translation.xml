@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expected BEGIN_OBJECT but was STRING at line 1 column 2 path" />
+      <item value="Unable to start activity ComponentInfo" />
       <item value="lateinit property currentPhotoUri has not been initialized" />
       <item value="Couldn't find meta-data for provider with authority io.github.com.harutiro.brainexchange.fileprovider" />
       <item value="好きなもの" />
@@ -49,13 +51,11 @@
       <item value="USAGE NOTIFICATION RINGTONE" />
       <item value="set_timerslack_ns write failed" />
       <item value="set_timerslack_ns write failed: Operation not permitted" />
-      <item value="Operation not permitted" />
-      <item value="Cannot modify managed objects outside of a write transaction." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="94" />
-        <entry key="JAPANESE" value="93" />
+        <entry key="ENGLISH" value="96" />
+        <entry key="JAPANESE" value="95" />
       </map>
     </option>
   </component>
