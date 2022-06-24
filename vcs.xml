@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/hk38/Checkwork20211126" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/prasath95/Android-Cloudinary-Image-Pdf-Upload.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\harut\AndroidStudioProjects" />
