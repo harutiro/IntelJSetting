@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The Hilt Android Gradle plugin is applied but no com.google.dagger:hilt-android dependency was found." />
       <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
       <item value="Type of the parameter must be a class annotated with @Entity or a collectionarray of it." />
       <item value="MediaManager is already initialized" />
@@ -50,12 +51,11 @@
       <item value="enable Lights" />
       <item value="can Show Badge" />
       <item value="set Lockscreen Visibility" />
-      <item value="exported" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="101" />
-        <entry key="JAPANESE" value="100" />
+        <entry key="ENGLISH" value="102" />
+        <entry key="JAPANESE" value="101" />
       </map>
     </option>
   </component>
