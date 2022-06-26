@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Type of the parameter must be a class annotated with @Entity or a collectionarray of it." />
       <item value="MediaManager is already initialized" />
       <item value="Could not find com.linkedin.android.litr:litr:1.1.0." />
       <item value="Could not resolve all files for configuration" />
@@ -50,16 +51,15 @@
       <item value="set Lockscreen Visibility" />
       <item value="exported" />
       <item value="FLAG INSISTENT" />
-      <item value="CONTENT TYPE SONIFICATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="99" />
-        <entry key="JAPANESE" value="98" />
+        <entry key="ENGLISH" value="100" />
+        <entry key="JAPANESE" value="99" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648396492233" />
+    <option name="lastTrimTime" value="1656209674145" />
   </component>
 </application>
