@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to resolve: androidx.hilt:hilt-lifecycle-viewmodel:1.0.0" />
+      <item value="Caused by: groovy.lang.MissingMethodException: No signature of method: build_58bu6iiov1p1ezpuc1d0luws6.android() is applicable for argument types: (build_58bu6iiov1p1ezpuc1d0luws6_run_closure1) values: [build_58bu6iiov1p1ezpuc1d0luws6_run_closure1@4c67e4dd]" />
+      <item value="The Hilt Android Gradle plugin is applied but no com.google.dagger:hilt-android dependency was found." />
+      <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
+      <item value="Type of the parameter must be a class annotated with @Entity or a collectionarray of it." />
       <item value="MediaManager is already initialized" />
       <item value="Could not find com.linkedin.android.litr:litr:1.1.0." />
       <item value="Could not resolve all files for configuration" />
@@ -46,20 +51,15 @@
       <item value="Unsupported class loader" />
       <item value="Bad notification posted from package app.makino.harutiro.trainalert: Couldn't create icon: StatusBarIcon(pkg=app.makino.harutiro.trainalertuser=0 id=0x7f070086 level=0 visible=true num=0 )" />
       <item value="enable Lights" />
-      <item value="can Show Badge" />
-      <item value="set Lockscreen Visibility" />
-      <item value="exported" />
-      <item value="FLAG INSISTENT" />
-      <item value="CONTENT TYPE SONIFICATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="99" />
-        <entry key="JAPANESE" value="98" />
+        <entry key="ENGLISH" value="104" />
+        <entry key="JAPANESE" value="103" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648396492233" />
+    <option name="lastTrimTime" value="1656209674145" />
   </component>
 </application>
